@@ -31,7 +31,7 @@ while True:
  c.send(ClientMessage.encode())
 ```
 ## OUPUT
-![image](https://github.com/YASHWINISEC/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/139361633/632f29d7-9fb2-42f7-86ee-ca1c4894b982)
+![Screenshot 2024-04-29 134131](https://github.com/YASHWINISEC/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/139361633/e24d33fc-083c-461d-98e4-ffaafdd29d51)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
