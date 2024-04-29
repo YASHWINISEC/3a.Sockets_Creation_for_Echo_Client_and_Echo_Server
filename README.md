@@ -1,4 +1,4 @@
-![image](https://github.com/YASHWINISEC/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/139361633/617dbdc6-86d9-4a95-bfe4-97ee24f99055)# 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
+# 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
